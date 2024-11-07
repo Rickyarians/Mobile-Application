@@ -22,6 +22,8 @@
 
 ### Small Project
 
+1. [Expense Tracker](https://github.com/Rickyarians/Expense-Tracker-App)
+
 ### Learn
 
 ### Cheatsheet & Tools
